@@ -15,6 +15,7 @@ frontend:
       - 'fonts/**/*'
       - 'img/**/*'
       - 'js/**/*'
+      - 'lib/**/*'
       - 'plugins/**/*'
   cache:
     paths: []
