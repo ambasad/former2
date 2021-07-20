@@ -11,10 +11,10 @@ frontend:
       - 'index.html'
       - 'favicon.ico'
       - 'robots.txt'
-      - 'css/*'
-      - 'fonts/*'
-      - 'img/*'
-      - 'js/*'
-      - 'plugins/*'
+      - 'css/**/*'
+      - 'fonts/**/*'
+      - 'img/**/*'
+      - 'js/**/*'
+      - 'plugins/**/*'
   cache:
     paths: []
